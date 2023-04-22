@@ -43,7 +43,7 @@ namespace _4_лаб
             for (int i = 0; i < massiv.Length; i++)
             {
                 Console.Write(massiv[i] + " ");
-            }
+            } 
 
         }
         static void Main(string[] args)
